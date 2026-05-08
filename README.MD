@@ -35,3 +35,8 @@ This project helps businesses improve customer retention using data insights.
 
 ### Contract Analysis
 ![Contract](images/contract.png)
+
+
+![Churn](images/churn_distribution.png)
+
+![Contract](images/contract_vs_churn.png)
