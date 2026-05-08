@@ -1,3 +1,0 @@
-plt.savefig("../images/churn_distribution.png")
-
-plt.savefig("images/contract_vs_churn.png")
