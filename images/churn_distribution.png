@@ -1,3 +1,5 @@
-churn_rate.png
-contract_analysis.png
-monthly_charges.png
+sns.countplot(x="Churn", data=df)
+plt.title("Churn Distribution")
+
+plt.savefig("images/churn_distribution.png")
+plt.show()
