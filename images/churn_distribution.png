@@ -1,5 +1,5 @@
 sns.countplot(x="Churn", data=df)
 plt.title("Churn Distribution")
 
-plt.savefig("images/churn_distribution.png")
+plt.savefig("images/churn_distribution.png", bbox_inches="tight")
 plt.show()
