@@ -1,2 +1,0 @@
-sns.boxplot(x="Churn", y="MonthlyCharges", data=df)
-plt.show()

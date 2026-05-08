@@ -1,2 +1,0 @@
-sns.countplot(x="Contract", hue="Churn", data=df)
-plt.show()
