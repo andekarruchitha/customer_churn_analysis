@@ -1,14 +1,5 @@
-import seaborn as sns
-import matplotlib.pyplot as plt
-
-# Create plot
 sns.countplot(x="Contract", hue="Churn", data=df)
-
-# Title
 plt.title("Contract vs Churn")
 
-# Save image (IMPORTANT)
-plt.savefig("images/contract_vs_churn.png", bbox_inches="tight")
-
-# Show plot
+plt.savefig("../images/contract_vs_churn.png")
 plt.show()
