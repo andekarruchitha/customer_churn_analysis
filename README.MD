@@ -28,10 +28,7 @@ This project helps businesses improve customer retention using data insights.
 
 “This project simulates real telecom customer behavior analysis used in business decision-making.”
 
-## 📊 Visualizations
-
-### Churn Distribution
-![Churn](images/churn_rate.png)
+## 📊 Visualization
 
 ### Contract Analysis
 ![Contract](images/contract.png)

@@ -1,11 +1,5 @@
 sns.countplot(x="Contract", hue="Churn", data=df)
 plt.title("Contract vs Churn")
-plt.savefig("images/contract_vs_churn.png")
+
+plt.savefig("../images/contract_vs_churn.png")  # IMPORTANT FIX
 plt.show()
-
-
-sns.boxplot(x="Churn", y="MonthlyCharges", data=df)
-plt.title("Charges vs Churn")
-plt.savefig("images/charges_vs_churn.png")
-plt.show()
-
