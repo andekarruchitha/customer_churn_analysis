@@ -37,4 +37,3 @@ This project helps businesses improve customer retention using data insights.
 
 ### Contract vs Churn
 ![Contract vs Churn](images/contract_vs_churn.png)
-
