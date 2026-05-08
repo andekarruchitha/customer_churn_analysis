@@ -36,9 +36,10 @@ This project helps businesses improve customer retention using data insights.
 ### Contract vs Churn
 ![Contract vs Churn](images/contract_vs_churn.png)
 
-## Project Structure
+# Customer Churn Analysis
 
-```text
-Customer-Churn-Analysis/
-...
+## 📈 Visualizations
+
+### Churn Distribution
+![Churn Distribution](images/churn_distribution.png)
 
