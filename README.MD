@@ -26,15 +26,15 @@ To analyze customer behavior and identify key factors causing customer churn.
 This project helps businesses improve customer retention using data insights.
 
 
-“This project simulates real telecom customer behavior analysis used in business decision-making.”
+“This project simulates real telecom customer behavior analysis used in business decision-making
 
-## 📊 Visualization
+## 📈 Visualizations
 
-### Contract Analysis
-![Contract](images/contract_vs_churn.png)
+### Churn Distribution
+![Churn Distribution](images/churn_distribution.png)
 
-
-![Churn](images/churn_distribution.png)
+### Contract vs Churn
+![Contract vs Churn](images/contract_vs_churn.png)
 
 ## Project Structure
 
