@@ -1,0 +1,14 @@
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+# Create plot
+sns.countplot(x="Churn", data=df)
+
+# Title
+plt.title("Churn Distribution")
+
+# Save image (IMPORTANT)
+plt.savefig("images/churn_distribution.png", bbox_inches="tight")
+
+# Show plot
+plt.show()

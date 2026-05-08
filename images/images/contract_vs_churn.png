@@ -1,5 +1,0 @@
-sns.countplot(x="Contract", hue="Churn", data=df)
-plt.title("Contract vs Churn")
-
-plt.savefig("../images/contract_vs_churn.png")  # IMPORTANT FIX
-plt.show()
