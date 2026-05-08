@@ -8,7 +8,7 @@ sns.countplot(x="Contract", hue="Churn", data=df)
 plt.title("Contract vs Churn")
 
 # Save image (IMPORTANT)
-plt.savefig("../images/contract_vs_churn.png", bbox_inches="tight")
+plt.savefig("images/contract_vs_churn.png", bbox_inches="tight")
 
 # Show plot
 plt.show()

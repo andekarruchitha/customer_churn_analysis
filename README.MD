@@ -36,3 +36,9 @@ This project helps businesses improve customer retention using data insights.
 
 ![Churn](images/churn_distribution.png)
 
+## Project Structure
+
+```text
+Customer-Churn-Analysis/
+...
+
